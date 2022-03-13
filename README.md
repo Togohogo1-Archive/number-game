@@ -1,2 +1,2 @@
-# Squabble Optimizer
-Finds optimal word combinations for Squabble
+# Number Game
+The original implementation of [Mathtermind]() classic mode, playable in the command prompt
